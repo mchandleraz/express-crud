@@ -9,4 +9,4 @@
 
 ## Contributing
 * Check GitHub Issues
-* Party
+* Party on a branch, submit pull request
